@@ -5,7 +5,8 @@ Esse foi um projeto elaborado para a resolução do desafio proposto pela Escrib
 
 ## Como rodar a aplicação?
 
-Se trata de um código básico, pode ser rodado no console do Dev Tools em qualquer navegador, mas se preferir algo mais clean, pode ser reproduzido no VS CODE utilizando Node.js(Javascript fora do navegador).
+Se trata de um código básico, pode ser rodado no console do Dev Tools em qualquer navegador, mas se preferir algo mais clean, pode ser reproduzido no VS CODE utilizando Node.js(Javascript fora do navegador), ou sites que tem compiladores online, exemplo: https://www.mycompiler.io/pt/new/nodejs. 
+Entre no arquivo script.js e copie o código para testar, ou de um git clone(nesse link: https://github.com/higorxi/desafio_tecnico_escribo.git ) caso esteja familiarizado e teste no VS CODE.
 
 ## Como testar valores?
 
